@@ -13,3 +13,6 @@ Engineering Years project
   <summary>This is the image i inserted do open it using the triangle</summary>
   <p><img  height="500" alt="bot" src="https://github.com/user-attachments/assets/e51d9534-bcad-4b38-894b-31f04dba9b15" width="500"></p>
 </details>
+<div align="center">
+  <h3><i><b>This is used for bold texts in the code</b></i></h3>
+</div>
